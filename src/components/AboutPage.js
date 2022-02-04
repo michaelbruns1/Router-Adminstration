@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 class AboutPage extends React.Component {
-  render() {
+  render(ddd) {
     return (
       <>
         <h2>About</h2>
